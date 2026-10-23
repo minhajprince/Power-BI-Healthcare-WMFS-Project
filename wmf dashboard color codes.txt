@@ -1,0 +1,26 @@
+8b0f04 red 
+004812 green
+C7BA51 yellow
+cccccc gray
+
+
+1A1A1A tittle color blk
+E6E6E6 border color light gry
+
+9DFF64 light green
+
+
+
+8b0f04 red  O.F.
+F02933 lgt red S.S.C
+FF7051 LGT2RED F.A.M
+
+004812 green F.A.E
+4C9A2A lgt grn F.A.G
+A4DE02 LGT2 C.F.D
+
+
+666666 Drk gry P.V.F
+B3B3B3 lgt gry R.T.C
+E6E6E6 LGT2 C.F.N.D
+
